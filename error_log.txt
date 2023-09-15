@@ -1,0 +1,5 @@
+Exception occurred:
+Traceback (most recent call last):
+  File "/Users/yaserrahmani/Desktop/RA-work/pythonCSTG/customLogging.py", line 5, in log_exception
+    raise Exception("Custom exception")
+Exception: Custom exception
